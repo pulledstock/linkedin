@@ -1,0 +1,16 @@
+{
+  "discord_webhook_url": "YOUR_DISCORD_WEBHOOK_URL",
+  "check_interval_minutes": 30,
+  "searches": [
+    {
+      "keywords": "Praktikum",
+      "location": "Frankfurt, Germany",
+      "job_type": "internship"
+    },
+    {
+      "keywords": "Werkstudent",
+      "location": "Frankfurt, Germany",
+      "job_type": "part_time"
+    }
+  ]
+}
